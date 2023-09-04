@@ -17,7 +17,7 @@ public class AmazonCloneApplication {
 //
 		SpringApplication.run(AmazonCloneApplication.class, args);
 
-		
+
 	}
 
 
