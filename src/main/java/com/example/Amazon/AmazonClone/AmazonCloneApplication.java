@@ -17,6 +17,8 @@ public class AmazonCloneApplication {
 //
 		SpringApplication.run(AmazonCloneApplication.class, args);
 		//hdhcyjcjcjcjcj,ycyjcj
+
+		System.out.println("Hello World!");
 	}
 
 
